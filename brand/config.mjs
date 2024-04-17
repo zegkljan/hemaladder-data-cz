@@ -1,22 +1,7 @@
-type Texts = {
-  [key in string]?: {
-    appName: string;
-    appDescription?: string;
-    supplyResultsText: string;
-    supplyResultsFootnotes: string;
-  };
-};
-
-type Config = {
-  fbLink?: string;
-  enabledLocales: string[];
-  // one from enabledLocales; if none, detected automatically by system
-  defaultLocale?: string;
-}
-
-export const texts: Texts = {
-  cz: {
+export const texts = {
+  'cs-CZ': {
     appName: 'Neoficiální český HEMA žebříček',
+    appDescription: undefined,
     supplyResultsText: `Pokud v žebříčku nejsou zahrnuty výsledky turnaje, kde jste byli, dejte prosím vědět, a to následujícím způsobem:
     <ol>
       <li>
@@ -94,8 +79,9 @@ export const texts: Texts = {
       </li>
     </ol>`,
   },
-  en: {
+  'en-US': {
     appName: 'Unofficial czech HEMA ladder',
+    appDescription: undefined,
     supplyResultsText: `If the ladder does not include results of a tournament you attended, please let me know like this:
     <ol>
       <li>
@@ -163,8 +149,9 @@ export const texts: Texts = {
   },
 };
 
-export const config: Config = {
+export const config = {
   fbLink: 'https://facebook.com/HEMAzebricekCZ',
   enabledLocales: ['cs-CZ', 'en-US'],
-  defaultLocale: 'cs-CZ'
+  defaultLocale: 'cs-CZ',
+  url: 'https://hemaladder.zegkljan.net',
 };
