@@ -1228,7 +1228,7 @@
       }
     ]
   },
-  "-32": {
+  "2029": {
     "name": "Blueshards cup",
     "date": "2024-03-23",
     "country": "it",
@@ -1255,7 +1255,7 @@
       }
     ]
   },
-  "-33": {
+  "2024": {
     "name": "Krkavčí jarní fechtík 2024",
     "date": "2024-04-06",
     "country": "cz",
@@ -1268,7 +1268,7 @@
           { "fencer_id": "5822", "rank": 1 },
           { "fencer_id": "8907", "rank": 2 },
           { "fencer_id": "152", "rank": 3 },
-          { "fencer_id": "-60", "rank": 4 },
+          { "fencer_id": "13932", "rank": 4 },
           { "fencer_id": "9352", "rank": 5 },
           { "fencer_id": "4783", "rank": 6 },
           { "fencer_id": "12161", "rank": 7 },
@@ -1285,7 +1285,7 @@
           { "fencer_id": "13900", "rank": 19 },
           { "fencer_id": "13897", "rank": 20 },
           { "fencer_id": "1146", "rank": 21 },
-          { "fencer_id": "-61", "rank": 22 },
+          { "fencer_id": "13931", "rank": 22 },
           { "fencer_id": "13895", "rank": 23 }
         ],
         "results_link": "https://krkavci.cz/tournament/kjf2024"
@@ -1308,6 +1308,92 @@
           { "fencer_id": "11278", "rank": 7 }
         ],
         "results_link": "https://hemascorecard.com/finalsBracket.php?e=451&t=1909&m=0#"
+      }
+    ]
+  },
+  "2032": {
+    "name": "Bratislava En Garde! 2024",
+    "date": "2024-04-20",
+    "country": "sk",
+    "competitions": [
+      {
+        "division": "rad",
+        "category": "mo",
+        "no_participants": 27,
+        "results": [
+          { "fencer_id": "1499", "rank": 1 },
+          { "fencer_id": "11158", "rank": 2 },
+          { "fencer_id": "9350", "rank": 12 },
+          { "fencer_id": "9598", "rank": 13 },
+          { "fencer_id": "1473", "rank": 14 },
+          { "fencer_id": "1503", "rank": 15 },
+          { "fencer_id": "10193", "rank": 18 },
+          { "fencer_id": "13599", "rank": 21 },
+          { "fencer_id": "10191", "rank": 27 }
+        ],
+        "results_link": "https://system.onlyfence.eu/public/87"
+      },
+      {
+        "division": "sab",
+        "category": "mo",
+        "no_participants": 19,
+        "results": [
+          { "fencer_id": "11158", "rank": 1 },
+          { "fencer_id": "9598", "rank": 3 },
+          { "fencer_id": "11157", "rank": 4 },
+          { "fencer_id": "12854", "rank": 6 },
+          { "fencer_id": "9350", "rank": 18 }
+        ],
+        "results_link": "https://system.onlyfence.eu/public/86"
+      }
+    ]
+  },
+  "-35": {
+    "name": "Brünner Stich 2024",
+    "date": "2024-04-20",
+    "country": "cz",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 53,
+        "results": [
+          { "fencer_id": "5822", "rank": 1 },
+          { "fencer_id": "9349", "rank": 3 },
+          { "fencer_id": "10136", "rank": 4 },
+          { "fencer_id": "3631", "rank": 5 },
+          { "fencer_id": "9270", "rank": 6 },
+          { "fencer_id": "8907", "rank": 8 },
+          { "fencer_id": "7991", "rank": 13 },
+          { "fencer_id": "10392", "rank": 14 },
+          { "fencer_id": "12855", "rank": 17 },
+          { "fencer_id": "1465", "rank": 19 },
+          { "fencer_id": "10054", "rank": 21 },
+          { "fencer_id": "10349", "rank": 24 },
+          { "fencer_id": "1463", "rank": 25 },
+          { "fencer_id": "13932", "rank": 28 },
+          { "fencer_id": "10346", "rank": 32 },
+          { "fencer_id": "12786", "rank": 34 },
+          { "fencer_id": "9271", "rank": 35 },
+          { "fencer_id": "10202", "rank": 37 },
+          { "fencer_id": "13896", "rank": 38 },
+          { "fencer_id": "12553", "rank": 42 },
+          { "fencer_id": "13397", "rank": 48 },
+          { "fencer_id": "13078", "rank": 49 },
+          { "fencer_id": "13596", "rank": 51 },
+          { "fencer_id": "4783", "rank": 52 }
+        ],
+        "results_link": "https://www.facebook.com/photo/?fbid=1141529810543764&set=pcb.1121980555787596"
+      },
+      {
+        "division": "ls",
+        "category": "w",
+        "no_participants": 8,
+        "results": [
+          { "fencer_id": "13892", "rank": 6 },
+          { "fencer_id": "-62", "rank": 8 }
+        ],
+        "results_link": "https://system.onlyfence.eu/public/86"
       }
     ]
   }
