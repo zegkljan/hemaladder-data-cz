@@ -1292,7 +1292,7 @@
       }
     ]
   },
-  "-34": {
+  "2033": {
     "name": "Berlin Spring Saber",
     "date": "2024-04-13",
     "country": "de",
@@ -1348,7 +1348,7 @@
       }
     ]
   },
-  "-35": {
+  "2036": {
     "name": "Brünner Stich 2024",
     "date": "2024-04-20",
     "country": "cz",
@@ -1391,9 +1391,144 @@
         "no_participants": 8,
         "results": [
           { "fencer_id": "13892", "rank": 6 },
-          { "fencer_id": "-62", "rank": 8 }
+          { "fencer_id": "14033", "rank": 8 }
         ],
         "results_link": "https://www.facebook.com/photo/?fbid=1141327263897352&set=gm.1121808265804825&idorvanity=1043739053611747"
+      }
+    ]
+  },
+  "2037": {
+    "name": "Vorschlag-RARE II 2024",
+    "date": "2024-04-27",
+    "country": "hu",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 35,
+        "results": [
+          { "fencer_id": "9348", "rank": 3 },
+          { "fencer_id": "9350", "rank": 9 },
+          { "fencer_id": "12854", "rank": 13 }
+        ],
+        "results_link": "https://hemascorecard.com/infoSummary.php?e=490&t=0&m=0#"
+      },
+      {
+        "division": "ls",
+        "category": "w",
+        "no_participants": 7,
+        "results": [
+          { "fencer_id": "9600", "rank": 1 }
+        ],
+        "results_link": "https://hemascorecard.com/infoSummary.php?e=490&t=0&m=0#"
+      }
+    ]
+  },
+  "2044": {
+    "name": "Žilinský Punk II 2024",
+    "date": "2024-05-04",
+    "country": "sk",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 35,
+        "results": [
+          { "fencer_id": "5576", "rank": 2 },
+          { "fencer_id": "11158", "rank": 8 },
+          { "fencer_id": "11157", "rank": 16 },
+          { "fencer_id": "11065", "rank": 17 },
+          { "fencer_id": "11689", "rank": 30 }
+        ],
+        "results_link": "https://system.onlyfence.eu/public/92"
+      }
+    ]
+  },
+  "-31": {
+    "name": "London HEMA Open 2024",
+    "date": "2024-05-04",
+    "country": "gb",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 57,
+        "results": [
+          { "fencer_id": "3631", "rank": 14 }
+        ],
+        "results_link": "https://hemascorecard.com/infoSummary.php?e=525&t=0&m=0#"
+      },
+      {
+        "division": "r",
+        "category": "mo",
+        "no_participants": 33,
+        "results": [
+          { "fencer_id": "3631", "rank": 28 }
+        ],
+        "results_link": "https://hemascorecard.com/infoSummary.php?e=525&t=0&m=0#"
+      },
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 52,
+        "results": [
+          { "fencer_id": "3631", "rank": 27 }
+        ],
+        "results_link": "https://hemascorecard.com/infoSummary.php?e=525&t=0&m=0#"
+      }
+    ]
+  },
+  "2041": {
+    "name": "Clash of Damned 2024",
+    "date": "2024-05-05",
+    "country": "cz",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 40,
+        "results": [
+          { "fencer_id": "12161", "rank": 2 },
+          { "fencer_id": "11069", "rank": 3 },
+          { "fencer_id": "11286", "rank": 4 },
+          { "fencer_id": "13595", "rank": 5 },
+          { "fencer_id": "7829", "rank": 6 },
+          { "fencer_id": "14081", "rank": 7 },
+          { "fencer_id": "4783", "rank": 8 },
+          { "fencer_id": "12855", "rank": 9 },
+          { "fencer_id": "7835", "rank": 10 },
+          { "fencer_id": "5826", "rank": 11 },
+          { "fencer_id": "14080", "rank": 12 },
+          { "fencer_id": "10057", "rank": 13 },
+          { "fencer_id": "6598", "rank": 14 },
+          { "fencer_id": "11308", "rank": 15 },
+          { "fencer_id": "13596", "rank": 16 },
+          { "fencer_id": "10202", "rank": 17 },
+          { "fencer_id": "11399", "rank": 18 },
+          { "fencer_id": "14082", "rank": 19 },
+          { "fencer_id": "9600", "rank": 20 },
+          { "fencer_id": "14078", "rank": 21 },
+          { "fencer_id": "8935", "rank": 22 },
+          { "fencer_id": "12165", "rank": 23 },
+          { "fencer_id": "14086", "rank": 24 },
+          { "fencer_id": "11393", "rank": 25 },
+          { "fencer_id": "14083", "rank": 26 },
+          { "fencer_id": "9271", "rank": 27 },
+          { "fencer_id": "11067", "rank": 28 },
+          { "fencer_id": "14085", "rank": 29 },
+          { "fencer_id": "14084", "rank": 30 },
+          { "fencer_id": "12784", "rank": 31 },
+          { "fencer_id": "8903", "rank": 32 },
+          { "fencer_id": "14087", "rank": 33 },
+          { "fencer_id": "13931", "rank": 34 },
+          { "fencer_id": "14089", "rank": 35 },
+          { "fencer_id": "13891", "rank": 36 },
+          { "fencer_id": "14077", "rank": 37 },
+          { "fencer_id": "14079", "rank": 38 },
+          { "fencer_id": "13892", "rank": 39 },
+          { "fencer_id": "14088", "rank": 40 }
+        ],
+        "results_link": "https://www.facebook.com/photo?fbid=952831003518350&set=pcb.952835410184576"
       }
     ]
   }
