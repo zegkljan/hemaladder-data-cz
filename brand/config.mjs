@@ -78,6 +78,17 @@ export const texts = {
         a tedy jejich ID je 362.
       </li>
     </ol>`,
+    coefficientTypes: {
+      foreign: 'Zahraniční turnaj',
+      foreign_25_50: 'Zahraniční účast 25-50 %',
+      foreign_50_75: 'Zahraniční účast 50-75 %',
+      foreign_75_100: 'Zahraniční účast >75 %',
+      championship: 'Mistrovství',
+      rank_1: 'První místo',
+      rank_2: 'Druhé místo',
+      rank_3: 'Třetí místo',
+      rank_4: 'Čtvrté místo',
+    }
   },
   'en-US': {
     appName: 'Unofficial czech HEMA ladder',
@@ -146,6 +157,17 @@ export const texts = {
       a therefore their ID is 362.
     </li>
   </ol>`,
+    coefficientTypes: {
+      foreign: 'Tournament abroad',
+      foreign_25_50: '25-50 % participants from abroad',
+      foreign_50_75: '50-75 % participants from abroad',
+      foreign_75_100: '>75 % participants from abroad',
+      championship: 'Championship',
+      rank_1: 'First place',
+      rank_2: 'Second place',
+      rank_3: 'Third place',
+      rank_4: 'Fourth place',
+    }
   },
 };
 

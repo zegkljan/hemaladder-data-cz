@@ -4,6 +4,7 @@ type Texts = {
     appDescription?: string;
     supplyResultsText: string;
     supplyResultsFootnotes: string;
+    coefficientTypes: Record<string, string>;
   };
 };
 
