@@ -1672,5 +1672,33 @@
         "results_link": "https://www.facebook.com/events/901637158365842?post_id=953974559798768&view=permalink"
       }
     ]
+  },
+  "-33": {
+    "name": "Black Horns Cup 2024",
+    "date": "2024-06-08",
+    "country": "pl",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 60,
+        "results": [
+          { "fencer_id": "2090", "rank": 1},
+          { "fencer_id": "7298", "rank": 8},
+          { "fencer_id": "3631", "rank": 22}
+        ],
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=469&t=1989&m=0#"
+      },
+      {
+        "division": "rad",
+        "category": "mo",
+        "no_participants": 46,
+        "results": [
+          { "fencer_id": "2090", "rank": 5 },
+          { "fencer_id": "3631", "rank": 19 }
+        ],
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=469&t=1991&m=0#"
+      }
+    ]
   }
 }
