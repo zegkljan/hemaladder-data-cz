@@ -2,6 +2,9 @@
   "985": {
     "name": "Adeptus"
   },
+  "1611": {
+    "name": "Akademie rytířských umění"
+  },
   "1418": {
     "name": "Ars Dimicatoria"
   },
@@ -28,6 +31,9 @@
   },
   "1357": {
     "name": "HEMA Praha"
+  },
+  "1097": {
+    "name": "Lanistae liberi Pragenses"
   },
   "1417": {
     "name": "Manus Regis"
@@ -79,8 +85,5 @@
   },
   "-4": {
     "name": "KEBU Plzeň Paridon"
-  },
-  "-5": {
-    "name": "Akademie rytířských umění"
   }
 }

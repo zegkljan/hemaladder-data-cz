@@ -1193,7 +1193,7 @@
           { "fencer_id": "-10", "rank": 4 },
           { "fencer_id": "-7", "rank": 5 },
           { "fencer_id": "-44", "rank": 6 },
-          { "fencer_id": "-45", "rank": 7 },
+          { "fencer_id": "14572", "rank": 7 },
           { "fencer_id": "9350", "rank": 8 }
         ]
       },
@@ -1207,7 +1207,7 @@
           { "fencer_id": "-10", "rank": 4 },
           { "fencer_id": "-7", "rank": 5 },
           { "fencer_id": "12166", "rank": 6 },
-          { "fencer_id": "-45", "rank": 7 },
+          { "fencer_id": "14572", "rank": 7 },
           { "fencer_id": "9350", "rank": 8 }
         ]
       }

@@ -1600,7 +1600,7 @@
       }
     ]
   },
-  "-32": {
+  "2085": {
     "name": "Na Duel!",
     "date": "2024-06-02",
     "country": "cz",
@@ -1624,18 +1624,18 @@
           { "fencer_id": "11157", "rank": 14},
           { "fencer_id": "12854", "rank": 15},
           { "fencer_id": "3626", "rank": 16},
-          { "fencer_id": "-45", "rank": 17},
-          { "fencer_id": "-63", "rank": 18},
+          { "fencer_id": "14572", "rank": 17},
+          { "fencer_id": "14570", "rank": 18},
           { "fencer_id": "14078", "rank": 19},
           { "fencer_id": "7825", "rank": 20},
           { "fencer_id": "12714", "rank": 21},
           { "fencer_id": "9103", "rank": 22},
-          { "fencer_id": "-64", "rank": 23},
-          { "fencer_id": "-65", "rank": 24},
+          { "fencer_id": "14567", "rank": 23},
+          { "fencer_id": "14568", "rank": 24},
           { "fencer_id": "13082", "rank": 25},
-          { "fencer_id": "-66", "rank": 26},
-          { "fencer_id": "-67", "rank": 27},
-          { "fencer_id": "-68", "rank": 28}
+          { "fencer_id": "14571", "rank": 26},
+          { "fencer_id": "14569", "rank": 27},
+          { "fencer_id": "14565", "rank": 28}
         ],
         "results_link": "https://www.facebook.com/events/901637158365842/?post_id=953983036464587&view=permalink"
       },
@@ -1651,7 +1651,7 @@
           { "fencer_id": "12161", "rank": 6 },
           { "fencer_id": "9271", "rank": 7 },
           { "fencer_id": "12854", "rank": 8 },
-          { "fencer_id": "-70", "rank": 9 },
+          { "fencer_id": "14566", "rank": 9 },
           { "fencer_id": "11157", "rank": 10 },
           { "fencer_id": "6598", "rank": 12 },
           { "fencer_id": "8936", "rank": 13 },
@@ -1659,13 +1659,13 @@
           { "fencer_id": "9350", "rank": 15 },
           { "fencer_id": "9638", "rank": 16 },
           { "fencer_id": "4783", "rank": 17 },
-          { "fencer_id": "-68", "rank": 18 },
+          { "fencer_id": "14565", "rank": 18 },
           { "fencer_id": "14078", "rank": 19 },
           { "fencer_id": "9636", "rank": 20 },
           { "fencer_id": "14086", "rank": 21 },
           { "fencer_id": "12162", "rank": 22 },
           { "fencer_id": "11072", "rank": 23 },
-          { "fencer_id": "-69", "rank": 24 },
+          { "fencer_id": "14564", "rank": 24 },
           { "fencer_id": "7829", "rank": 25 },
           { "fencer_id": "12163", "rank": 26 }
         ],
@@ -1698,6 +1698,35 @@
           { "fencer_id": "3631", "rank": 19 }
         ],
         "results_link": "https://hemascorecard.com/finalsBracket.php?e=469&t=1991&m=0#"
+      }
+    ]
+  },
+  "2091": {
+    "name": "Torneo di Spada a Potsdam 2024",
+    "date": "2024-06-01",
+    "country": "de",
+    "competitions": [
+      {
+        "division": "ss",
+        "category": "mo",
+        "subtitle": "open",
+        "no_participants": 28,
+        "results": [
+          { "fencer_id": "9598", "rank": 3},
+          { "fencer_id": "8760", "rank": 8},
+          { "fencer_id": "8757", "rank": 23}
+        ],
+        "results_link": "https://turnier.piranha.de/fighter/category/25"
+      },
+      {
+        "division": "ss",
+        "category": "mo",
+        "subtitle": "beginner",
+        "no_participants": 10,
+        "results": [
+          { "fencer_id": "-71", "rank": 7 }
+        ],
+        "results_link": "https://turnier.piranha.de/fighter/category/27"
       }
     ]
   }
