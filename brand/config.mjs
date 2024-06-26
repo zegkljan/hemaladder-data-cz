@@ -1,6 +1,6 @@
 export const texts = {
   'cs-CZ': {
-    appName: 'Neoficiální český HEMA žebříček',
+    appName: 'Český HEMA žebříček',
     appDescription: undefined,
     supplyResultsText: `Pokud v žebříčku nejsou zahrnuty výsledky turnaje, kde jste byli, dejte prosím vědět, a to následujícím způsobem:
     <ol>
@@ -91,7 +91,7 @@ export const texts = {
     }
   },
   'en-US': {
-    appName: 'Unofficial czech HEMA ladder',
+    appName: 'Czech HEMA ladder',
     appDescription: undefined,
     supplyResultsText: `If the ladder does not include results of a tournament you attended, please let me know like this:
     <ol>
