@@ -63,6 +63,10 @@
     "surname": "Böhm",
     "name": "Pavel"
   },
+  "14775": {
+    "surname": "Brunner",
+    "name": "Ondřej"
+  },
   "2090": {
     "surname": "Brýdl",
     "name": "Zdeněk"
@@ -162,6 +166,10 @@
   "13932": {
     "surname": "Giannetti",
     "name": "Giuliano"
+  },
+  "14779": {
+    "surname": "Gladkova",
+    "name": "Ekaterina"
   },
   "1146": {
     "surname": "Gorbulinskaja",
@@ -287,6 +295,10 @@
     "surname": "Kazelle",
     "name": "Kamil"
   },
+  "14774": {
+    "surname": "Khlevnoy",
+    "name": "Anatoly"
+  },
   "14087": {
     "surname": "Klapka",
     "name": "Tomáš"
@@ -342,6 +354,10 @@
   "11060": {
     "surname": "Kozlová",
     "name": "Miroslava"
+  },
+  "14777": {
+    "surname": "Krajčovič",
+    "name": "Michal"
   },
   "11067": {
     "surname": "Král",
@@ -570,6 +586,10 @@
   "3626": {
     "surname": "Pekárek",
     "name": "Václav"
+  },
+  "14780": {
+    "surname": "Petráková",
+    "name": "Markéta"
   },
   "5118": {
     "surname": "Petrtýl",
@@ -855,6 +875,10 @@
     "surname": "Žegklitz",
     "name": "Jan"
   },
+  "14776": {
+    "surname": "Živnůstka",
+    "name": "Kryštof"
+  },
   "-1": {
     "surname": "Šrajer",
     "name": "Matěj"
@@ -898,9 +922,5 @@
   "-71": {
     "surname": "Pospíšil",
     "name": "Adam"
-  },
-  "-73": {
-    "surname": "...",
-    "name": "..."
   }
 }
