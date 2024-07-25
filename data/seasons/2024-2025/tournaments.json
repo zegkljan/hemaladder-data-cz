@@ -1,7 +1,43 @@
 {
+  "2113": {
+    "name": "3. Dresdner HEMA-Cup 2024",
+    "date": "2024-06-22",
+    "country": "de",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 23,
+        "results": [
+          { "fencer_id": "2140", "rank": 1 },
+          { "fencer_id": "3624", "rank": 2 }
+        ]
+      },
+      {
+        "division": "rad",
+        "category": "mo",
+        "no_participants": 11,
+        "results": [
+          { "fencer_id": "9598", "rank": 1 },
+          { "fencer_id": "1473", "rank": 2 }
+        ]
+      },
+      {
+        "division": "sab",
+        "category": "mo",
+        "no_participants": 10,
+        "results": [
+          { "fencer_id": "9598", "rank": 1 },
+          { "fencer_id": "1473", "rank": 2 },
+          { "fencer_id": "14841", "rank": 5 },
+          { "fencer_id": "14842", "rank": 8 }
+        ]
+      }
+    ]
+  },
   "2107": {
     "name": "Pražský Argument",
-    "date": "2042-06-29",
+    "date": "2024-06-29",
     "country": "cz",
     "competitions": [
       {
