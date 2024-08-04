@@ -92,5 +92,34 @@
         ]
       }
     ]
+  },
+  "-22": {
+    "name": "Warriors Shelter Meetup 0/II",
+    "date": "2024-07-28",
+    "country": "cz",
+    "competitions": [
+      {
+        "division": "r",
+        "category": "mo",
+        "no_participants": 16,
+        "results_link": "https://www.facebook.com/events/7767747763286022/?post_id=8063941117000017&view=permalink",
+        "results": [
+          { "fencer_id": "10193", "rank": 2 },
+          { "fencer_id": "9350", "rank": 3 },
+          { "fencer_id": "9270", "rank": 4 },
+          { "fencer_id": "10349", "rank": 5 },
+          { "fencer_id": "10195", "rank": 6 },
+          { "fencer_id": "13078", "rank": 6 },
+          { "fencer_id": "-72", "rank": 8 },
+          { "fencer_id": "12854", "rank": 9 },
+          { "fencer_id": "13205", "rank": 10 },
+          { "fencer_id": "-28", "rank": 11 },
+          { "fencer_id": "12161", "rank": 12 },
+          { "fencer_id": "-73", "rank": 13 },
+          { "fencer_id": "-74", "rank": 15 },
+          { "fencer_id": "12856", "rank": 16 }
+        ]
+      }
+    ]
   }
 }
