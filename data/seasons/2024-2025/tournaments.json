@@ -93,7 +93,46 @@
       }
     ]
   },
-  "-22": {
+  "2124": {
+    "name": "Steel & Chill III. 2024",
+    "date": "2024-07-20",
+    "country": "hr",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 33,
+        "results_link": "https://www.hemascorecard.com/finalsBracket.php?e=487&t=2312&m=0#",
+        "results": [
+          { "fencer_id": "11296", "rank": 16 },
+          { "fencer_id": "9350", "rank": 19 }
+        ]
+      },
+      {
+        "division": "sab",
+        "category": "mo",
+        "no_participants": 24,
+        "results_link": "https://www.hemascorecard.com/finalsBracket.php?e=487&t=2313&m=0#",
+        "results": [
+          { "fencer_id": "9598", "rank": 5 },
+          { "fencer_id": "7311", "rank": 13 },
+          { "fencer_id": "9350", "rank": 17 }
+        ]
+      },
+      {
+        "division": "ss",
+        "category": "mo",
+        "no_participants": 24,
+        "results_link": "https://www.hemascorecard.com/finalsBracket.php?e=487&t=2315&m=0#",
+        "results": [
+          { "fencer_id": "7311", "rank": 5 },
+          { "fencer_id": "9598", "rank": 7 },
+          { "fencer_id": "9350", "rank": 20 }
+        ]
+      }
+    ]
+  },
+  "2130": {
     "name": "Warriors Shelter Meetup 0/II",
     "date": "2024-07-28",
     "country": "cz",
