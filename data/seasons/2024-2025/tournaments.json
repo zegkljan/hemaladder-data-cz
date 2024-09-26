@@ -149,14 +149,51 @@
           { "fencer_id": "10349", "rank": 5 },
           { "fencer_id": "10195", "rank": 6 },
           { "fencer_id": "13078", "rank": 6 },
-          { "fencer_id": "-72", "rank": 8 },
+          { "fencer_id": "14950", "rank": 8 },
           { "fencer_id": "12854", "rank": 9 },
           { "fencer_id": "13205", "rank": 10 },
-          { "fencer_id": "-28", "rank": 11 },
+          { "fencer_id": "14951", "rank": 11 },
           { "fencer_id": "12161", "rank": 12 },
-          { "fencer_id": "-73", "rank": 13 },
-          { "fencer_id": "-74", "rank": 15 },
+          { "fencer_id": "14953", "rank": 13 },
+          { "fencer_id": "14952", "rank": 15 },
           { "fencer_id": "12856", "rank": 16 }
+        ]
+      }
+    ]
+  },
+  "2167": {
+    "name": "Dragoon Sabre 2024",
+    "date": "2024-09-21",
+    "country": "cz",
+    "competitions": [
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 33,
+        "results_link": "https://www.facebook.com/photo/?fbid=1057621713039278&set=pcb.3719059985071875",
+        "results": [
+          { "fencer_id": "3631", "rank": 1 },
+          { "fencer_id": "8907", "rank": 4 },
+          { "fencer_id": "5822", "rank": 5 },
+          { "fencer_id": "7835", "rank": 6 },
+          { "fencer_id": "12161", "rank": 7 },
+          { "fencer_id": "11157", "rank": 8 },
+          { "fencer_id": "12166", "rank": 9 },
+          { "fencer_id": "11278", "rank": 10 },
+          { "fencer_id": "14569", "rank": 14 },
+          { "fencer_id": "7829", "rank": 17 },
+          { "fencer_id": "12714", "rank": 18 },
+          { "fencer_id": "12163", "rank": 19 },
+          { "fencer_id": "3626", "rank": 20 },
+          { "fencer_id": "14081", "rank": 21 },
+          { "fencer_id": "9350", "rank": 23 },
+          { "fencer_id": "14568", "rank": 24 },
+          { "fencer_id": "7837", "rank": 25 },
+          { "fencer_id": "6598", "rank": 28 },
+          { "fencer_id": "7827", "rank": 30 },
+          { "fencer_id": "12713", "rank": 31 },
+          { "fencer_id": "15301", "rank": 32 },
+          { "fencer_id": "8899", "rank": 33 }
         ]
       }
     ]
