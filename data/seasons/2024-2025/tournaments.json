@@ -197,5 +197,25 @@
         ]
       }
     ]
+  },
+  "2187": {
+    "name": "Warriors Shelter Meetup 0/IV",
+    "date": "2024-09-29",
+    "country": "cz",
+    "competitions": [
+      {
+        "division": "rad",
+        "category": "mo",
+        "no_participants": 9,
+        "results_link": "https://docs.google.com/spreadsheets/d/1p_j5EtQoPxWMYqhCc5GaIcNmJUfP_Zi84sN2qsP1IlU/edit?usp=sharing",
+        "results": [
+           { "fencer_id": "14951", "rank": 4 },
+           { "fencer_id": "9350", "rank": 5 },
+           { "fencer_id": "12854", "rank": 6 },
+           { "fencer_id": "15473", "rank": 7 },
+           { "fencer_id": "14950", "rank": 9 }
+        ]
+      }
+    ]
   }
 }
