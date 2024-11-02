@@ -254,5 +254,60 @@
         ]
       }
     ]
+  },
+  "2196": {
+    "name": "Central Asia HEMA Cup 2024",
+    "date": "2024-10-12",
+    "country": "kz",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "subtitle": "advanced",
+        "no_participants": 39,
+        "results_link": "https://hemagon.com/tournament/%D0%9A%D0%A6%D0%90",
+        "results": [
+           { "fencer_id": "5822", "rank": 2 }
+        ]
+      },
+      {
+        "division": "ls",
+        "category": "w",
+        "no_participants": 9,
+        "results_link": "https://hemagon.com/tournament/%D0%9A%D0%A6%D0%90",
+        "results": [
+           { "fencer_id": "9339", "rank": 5 }
+        ]
+      },
+      {
+        "division": "ls",
+        "category": "w",
+        "subtitle": "Italian duelling codex",
+        "no_participants": 7,
+        "results_link": "https://hemagon.com/tournament/%D0%9A%D0%A6%D0%90",
+        "results": [
+           { "fencer_id": "9339", "rank": 7 }
+        ]
+      },
+      {
+        "division": "sb",
+        "category": "mo",
+        "subtitle": "Advanced",
+        "no_participants": 34,
+        "results_link": "https://hemagon.com/tournament/%D0%9A%D0%A6%D0%90",
+        "results": [
+           { "fencer_id": "5822", "rank": 8 }
+        ]
+      },
+      {
+        "division": "sb",
+        "category": "w",
+        "no_participants": 8,
+        "results_link": "https://hemagon.com/tournament/%D0%9A%D0%A6%D0%90",
+        "results": [
+           { "fencer_id": "9339", "rank": 3 }
+        ]
+      }
+    ]
   }
 }
