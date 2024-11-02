@@ -309,5 +309,36 @@
         ]
       }
     ]
+  },
+  "-22": {
+    "name": "KatzenSchlag 2024",
+    "date": "2024-10-19",
+    "country": "pl",
+    "competitions": [
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 30,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=638&t=2630&m=0#",
+        "results": [
+          { "fencer_id": "8907", "rank": 8 },
+          { "fencer_id": "11157", "rank": 10 }
+        ]
+      },
+      {
+        "division": "ss",
+        "category": "mo",
+        "no_participants": 17,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=638&t=2631&m=0#",
+        "results": [
+          { "fencer_id": "11157", "rank": 6 },
+          { "fencer_id": "1473", "rank": 7 },
+          { "fencer_id": "8760", "rank": 12 },
+          { "fencer_id": "8907", "rank": 13 },
+          { "fencer_id": "-72", "rank": 16 },
+          { "fencer_id": "-71", "rank": 17 }
+        ]
+      }
+    ]
   }
 }
