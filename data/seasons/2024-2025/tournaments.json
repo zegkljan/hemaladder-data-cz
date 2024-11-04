@@ -340,5 +340,37 @@
         ]
       }
     ]
+  },
+  "-23": {
+    "name": "Dutch Lions Cup 2024",
+    "date": "2024-11-02",
+    "country": "nl",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 79,
+        "results_link": "https://hemagon.com/tournament/DLC/nomination/openlongsword",
+        "results": [
+          { "fencer_id": "2140", "rank": 9 },
+          { "fencer_id": "7298", "rank": 13 },
+          { "fencer_id": "12553", "rank": 15 },
+          { "fencer_id": "7991", "rank": 20 },
+          { "fencer_id": "152", "rank": 22 },
+          { "fencer_id": "8907", "rank": 27 },
+          { "fencer_id": "12786", "rank": 37 },
+          { "fencer_id": "13896", "rank": 52 }
+        ]
+      },
+      {
+        "division": "ls",
+        "category": "w",
+        "no_participants": 15,
+        "results_link": "https://hemagon.com/tournament/DLC/nomination/womenlongsword",
+        "results": [
+          { "fencer_id": "1146", "rank": 9 }
+        ]
+      }
+    ]
   }
 }
