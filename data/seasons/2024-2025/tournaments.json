@@ -310,7 +310,7 @@
       }
     ]
   },
-  "-22": {
+  "2216": {
     "name": "KatzenSchlag 2024",
     "date": "2024-10-19",
     "country": "pl",
@@ -341,7 +341,7 @@
       }
     ]
   },
-  "-23": {
+  "2226": {
     "name": "Dutch Lions Cup 2024",
     "date": "2024-11-02",
     "country": "nl",
@@ -369,6 +369,50 @@
         "results_link": "https://hemagon.com/tournament/DLC/nomination/womenlongsword",
         "results": [
           { "fencer_id": "1146", "rank": 9 }
+        ]
+      }
+    ]
+  },
+  "2214": {
+    "name": "Tyrnhaw 2024",
+    "date": "2024-11-09",
+    "country": "sk",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 90,
+        "results_link": "https://system.onlyfence.eu/public/108",
+        "results": [
+          { "fencer_id": "2090", "rank": 4 },
+          { "fencer_id": "5822", "rank": 7 },
+          { "fencer_id": "1471", "rank": 8 },
+          { "fencer_id": "3631", "rank": 10 },
+          { "fencer_id": "2140", "rank": 12 },
+          { "fencer_id": "8907", "rank": 23 },
+          { "fencer_id": "3624", "rank": 28 },
+          { "fencer_id": "12854", "rank": 30 },
+          { "fencer_id": "2041", "rank": 37 },
+          { "fencer_id": "9350", "rank": 44 },
+          { "fencer_id": "10392", "rank": 48 },
+          { "fencer_id": "2290", "rank": 53 },
+          { "fencer_id": "14777", "rank": 58 },
+          { "fencer_id": "11278", "rank": 72 },
+          { "fencer_id": "1463", "rank": 74 },
+          { "fencer_id": "10202", "rank": 75 },
+          { "fencer_id": "8936", "rank": 78 },
+          { "fencer_id": "8935", "rank": 83 }
+        ]
+      },
+      {
+        "division": "ls",
+        "category": "w",
+        "no_participants": 20,
+        "results_link": "https://system.onlyfence.eu/public/109",
+        "results": [
+          { "fencer_id": "9600", "rank": 4 },
+          { "fencer_id": "13891", "rank": 6 },
+          { "fencer_id": "9339", "rank": 8 }
         ]
       }
     ]
