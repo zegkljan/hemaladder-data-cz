@@ -416,5 +416,92 @@
         ]
       }
     ]
+  },
+  "2242": {
+    "name": "Pardubický meč 2024",
+    "date": "2024-12-07",
+    "country": "cz",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 96,
+        "results_link": "https://www.facebook.com/events/1059539935877145?post_id=1141209647710173&view=permalink",
+        "results": [
+          { "fencer_id": "2090", "rank": 1 },
+          { "fencer_id": "7298", "rank": 4 },
+          { "fencer_id": "11158", "rank": 7 },
+          { "fencer_id": "3631", "rank": 11 },
+          { "fencer_id": "5822", "rank": 12 },
+          { "fencer_id": "12855", "rank": 13 },
+          { "fencer_id": "15558", "rank": 16 },
+          { "fencer_id": "8907", "rank": 19 },
+          { "fencer_id": "10346", "rank": 22 },
+          { "fencer_id": "8936", "rank": 23 },
+          { "fencer_id": "2041", "rank": 24 },
+          { "fencer_id": "11278", "rank": 26 },
+          { "fencer_id": "9352", "rank": 29 },
+          { "fencer_id": "14774", "rank": 30 },
+          { "fencer_id": "10057", "rank": 31 },
+          { "fencer_id": "13932", "rank": 32 },
+          { "fencer_id": "11157", "rank": 34 },
+          { "fencer_id": "1465", "rank": 36 },
+          { "fencer_id": "13595", "rank": 37 },
+          { "fencer_id": "14564", "rank": 42 },
+          { "fencer_id": "9271", "rank": 43 },
+          { "fencer_id": "9348", "rank": 44 },
+          { "fencer_id": "13102", "rank": 45 },
+          { "fencer_id": "11286", "rank": 47 },
+          { "fencer_id": "10202", "rank": 48 },
+          { "fencer_id": "8934", "rank": 49 },
+          { "fencer_id": "14081", "rank": 50 },
+          { "fencer_id": "9350", "rank": 51 },
+          { "fencer_id": "3624", "rank": 52 },
+          { "fencer_id": "4783", "rank": 55 },
+          { "fencer_id": "1512", "rank": 57 },
+          { "fencer_id": "16061", "rank": 58 },
+          { "fencer_id": "5826", "rank": 59 },
+          { "fencer_id": "14566", "rank": 61 },
+          { "fencer_id": "11058", "rank": 62 },
+          { "fencer_id": "10349", "rank": 63 },
+          { "fencer_id": "10058", "rank": 64 },
+          { "fencer_id": "16062", "rank": 66 },
+          { "fencer_id": "11308", "rank": 73 },
+          { "fencer_id": "16060", "rank": 74 },
+          { "fencer_id": "16068", "rank": 75 },
+          { "fencer_id": "14708", "rank": 76 },
+          { "fencer_id": "15555", "rank": 78 },
+          { "fencer_id": "11398", "rank": 79 },
+          { "fencer_id": "11059", "rank": 80 },
+          { "fencer_id": "14775", "rank": 81 },
+          { "fencer_id": "11067", "rank": 82 },
+          { "fencer_id": "14078", "rank": 83 },
+          { "fencer_id": "9339", "rank": 84 },
+          { "fencer_id": "8935", "rank": 85 },
+          { "fencer_id": "11393", "rank": 86 },
+          { "fencer_id": "16066", "rank": 87 },
+          { "fencer_id": "14084", "rank": 89 },
+          { "fencer_id": "16067", "rank": 92 },
+          { "fencer_id": "16059", "rank": 93 },
+          { "fencer_id": "13596", "rank": 95 },
+          { "fencer_id": "16058", "rank": 96 }
+        ]
+      },
+      {
+        "division": "ls",
+        "category": "w",
+        "no_participants": 11,
+        "results_link": "https://www.facebook.com/events/1059539935877145/?post_id=1141210644376740&view=permalink",
+        "results": [
+          { "fencer_id": "9339", "rank": 1 },
+          { "fencer_id": "9600", "rank": 3 },
+          { "fencer_id": "13891", "rank": 6 },
+          { "fencer_id": "11065", "rank": 7 },
+          { "fencer_id": "11060", "rank": 8 },
+          { "fencer_id": "15301", "rank": 9 },
+          { "fencer_id": "16069", "rank": 10 }
+        ]
+      }
+    ]
   }
 }

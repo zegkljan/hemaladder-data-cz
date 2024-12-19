@@ -3,7 +3,7 @@
     "name": "Adeptus"
   },
   "1611": {
-    "name": "Akademie rytířských umění"
+    "name": "AKA - Akademie rytířských umění"
   },
   "1418": {
     "name": "Ars Dimicatoria"
@@ -28,6 +28,9 @@
   },
   "983": {
     "name": "Duelanti od Svatého Rocha"
+  },
+  "1676": {
+    "name": "FFG Ostrava"
   },
   "1171": {
     "name": "HELOPS"
@@ -80,11 +83,11 @@
   "1626": {
     "name": "Winden"
   },
+  "296": {
+    "name": "Zlínská Šermířská Společnost"
+  },
   "-1": {
     "name": "Česká zemská šermírna"
-  },
-  "-2": {
-    "name": "FFG Ostrava"
   },
   "-3": {
     "name": "Ballestra Telč - Paridon"
