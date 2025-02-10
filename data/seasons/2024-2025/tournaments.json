@@ -594,5 +594,40 @@
         ]
       }
     ]
+  },
+  "2293": {
+    "name": "Open du Port de la Lune 2025",
+    "date": "2025-02-01",
+    "country": "fr",
+    "city": "Bordeaux",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 34,
+        "results_link": "https://www.facebook.com/photo/?fbid=1277184100578002&set=pcb.988563229837327",
+        "results": [
+          { "fencer_id": "3631", "rank": 1 }
+        ]
+      },
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 26,
+        "results_link": "https://www.facebook.com/photo/?fbid=1277184090578003&set=pcb.988563229837327",
+        "results": [
+          { "fencer_id": "3631", "rank": 7 }
+        ]
+      },
+      {
+        "division": "sab",
+        "category": "mo",
+        "no_participants": 12,
+        "results_link": "https://www.facebook.com/photo?fbid=1277184077244671&set=pcb.988563229837327",
+        "results": [
+          { "fencer_id": "3631", "rank": 3 }
+        ]
+      }
+    ]
   }
 }
