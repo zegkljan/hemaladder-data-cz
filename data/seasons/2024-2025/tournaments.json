@@ -255,6 +255,41 @@
       }
     ]
   },
+  "2188": {
+    "name": "II Lake HEMA",
+    "date": "2024-10-05",
+    "country": "it",
+    "city": "Como",
+    "competitions": [
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 68,
+        "results_link": "https://hemagon.com/tournament/II-lake-hema/nomination/saber",
+        "results": [
+          { "fencer_id": "9598", "rank": 11 }
+        ]
+      },
+      {
+        "division": "ss",
+        "category": "mo",
+        "no_participants": 72,
+        "results_link": "https://hemagon.com/tournament/II-lake-hema/nomination/sidesword",
+        "results": [
+          { "fencer_id": "9598", "rank": 3 }
+        ]
+      },
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 57,
+        "results_link": "https://hemagon.com/tournament/II-lake-hema/nomination/longsword",
+        "results": [
+          { "fencer_id": "9598", "rank": 6 }
+        ]
+      }
+    ]
+  },
   "2196": {
     "name": "Central Asia HEMA Cup 2024",
     "date": "2024-10-12",
