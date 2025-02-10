@@ -629,5 +629,114 @@
         ]
       }
     ]
+  },
+  "-22": {
+    "name": "FechtBerg - Poker Armory Cup 2025",
+    "date": "2025-02-08",
+    "country": "pl",
+    "city": "Bielsko-Biała",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 104,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=693&t=2878&m=0#",
+        "results": [
+          { "fencer_id": "5822", "rank": 4 },
+          { "fencer_id": "2140", "rank": 6 },
+          { "fencer_id": "3631", "rank": 8 },
+          { "fencer_id": "11158", "rank": 9 },
+          { "fencer_id": "9348", "rank": 15 },
+          { "fencer_id": "9635", "rank": 16 },
+          { "fencer_id": "8907", "rank": 22 },
+          { "fencer_id": "152", "rank": 30 },
+          { "fencer_id": "12553", "rank": 44 },
+          { "fencer_id": "11157", "rank": 53 },
+          { "fencer_id": "12854", "rank": 55 },
+          { "fencer_id": "10346", "rank": 57 },
+          { "fencer_id": "7298", "rank": 58 },
+          { "fencer_id": "10349", "rank": 60 },
+          { "fencer_id": "12786", "rank": 61 },
+          { "fencer_id": "7829", "rank": 63 },
+          { "fencer_id": "-73", "rank": 67 },
+          { "fencer_id": "15167", "rank": 80 },
+          { "fencer_id": "13896", "rank": 87 },
+          { "fencer_id": "9271", "rank": 91 },
+          { "fencer_id": "-74", "rank": 95 },
+          { "fencer_id": "-75", "rank": 98 },
+          { "fencer_id": "-76", "rank": 99 },
+          { "fencer_id": "15168", "rank": 101 },
+          { "fencer_id": "15182", "rank": 102 }
+        ]
+      },
+      {
+        "division": "ls",
+        "category": "w",
+        "no_participants": 17,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=693&t=2881&m=0#",
+        "results": [
+          { "fencer_id": "9339", "rank": 3 },
+          { "fencer_id": "15301", "rank": 13 },
+          { "fencer_id": "15171", "rank": 14 },
+          { "fencer_id": "13891", "rank": 15 },
+          { "fencer_id": "1146", "rank": 16 }
+        ]
+      },
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 97,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=693&t=2877&m=0#",
+        "results": [
+          { "fencer_id": "11158", "rank": 16 },
+          { "fencer_id": "8907", "rank": 19 },
+          { "fencer_id": "5822", "rank": 24 },
+          { "fencer_id": "9635", "rank": 43 },
+          { "fencer_id": "3631", "rank": 64 },
+          { "fencer_id": "7829", "rank": 65 }
+        ]
+      },
+      {
+        "division": "sb",
+        "category": "w",
+        "no_participants": 10,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=693&t=2882&m=0#",
+        "results": [
+          { "fencer_id": "9339", "rank": 6 },
+          { "fencer_id": "15301", "rank": 10 }
+        ]
+      },
+      {
+        "division": "rad",
+        "category": "mo",
+        "no_participants": 41,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=693&t=2880&m=0#",
+        "results": [
+          { "fencer_id": "11158", "rank": 12 },
+          { "fencer_id": "3631", "rank": 19 },
+          { "fencer_id": "9348", "rank": 22 },
+          { "fencer_id": "8907", "rank": 23 },
+          { "fencer_id": "10349", "rank": 27 },
+          { "fencer_id": "2140", "rank": 28 },
+          { "fencer_id": "9635", "rank": 32 },
+          { "fencer_id": "12854", "rank": 41 }
+        ]
+      },
+      {
+        "division": "sab",
+        "category": "mo",
+        "no_participants": 39,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=693&t=2879&m=0#",
+        "results": [
+          { "fencer_id": "11157", "rank": 10 },
+          { "fencer_id": "8907", "rank": 11 },
+          { "fencer_id": "12854", "rank": 13 },
+          { "fencer_id": "9635", "rank": 16 },
+          { "fencer_id": "-77", "rank": 23 },
+          { "fencer_id": "-78", "rank": 29 },
+          { "fencer_id": "14842", "rank": 32 }
+        ]
+      }
+    ]
   }
 }
