@@ -38,6 +38,9 @@
   "1357": {
     "name": "HEMA Praha"
   },
+  "1780": {
+    "name": "KEBU Plzeň Paridon"
+  },
   "1097": {
     "name": "Lanistae liberi Pragenses"
   },
@@ -91,8 +94,5 @@
   },
   "-3": {
     "name": "Ballestra Telč - Paridon"
-  },
-  "-4": {
-    "name": "KEBU Plzeň Paridon"
   }
 }
