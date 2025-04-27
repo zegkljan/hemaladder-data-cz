@@ -982,6 +982,7 @@
         "division": "ls",
         "category": "mo",
         "no_participants": 43,
+        "results_link": "https://www.facebook.com/events/958732149500838/?post_id=1029161552457897&view=permalink",
         "results": [
           { "fencer_id": "10346", "rank": 17 }
         ]
@@ -1010,6 +1011,24 @@
         "results_link": "https://hemascorecard.com/finalsBracket.php?e=550&t=2934&m=0#",
         "results": [
           { "fencer_id": "2140", "rank": 2 }
+        ]
+      }
+    ]
+  },
+  "2340": {
+    "name": "Swordmasters Cup 1 2025",
+    "date": "2025-03-08",
+    "country": "pl",
+    "city": "Wroclaw",
+    "competitions": [
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 40,
+        "results_link": "https://hemascorecard.com/infoSummary.php?t=731",
+        "results": [
+          { "fencer_id": "1471", "rank": 2 },
+          { "fencer_id": "11278", "rank": 12 }
         ]
       }
     ]
@@ -1171,6 +1190,78 @@
           { "fencer_id": "14842", "rank": 9 },
           { "fencer_id": "9350", "rank": 15 },
           { "fencer_id": "16633", "rank": 18 }
+        ]
+      }
+    ]
+  },
+  "-22": {
+    "name": "Brünner Stich",
+    "date": "2025-04-26",
+    "country": "cz",
+    "city": "Brno",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 68,
+        "results_link": "https://www.facebook.com/photo/?fbid=1420908655939210&set=gm.1264874128687257&idorvanity=1157280426113295",
+        "results": [
+          { "fencer_id": "9272", "rank": 2 },
+          { "fencer_id": "8907", "rank": 4 },
+          { "fencer_id": "11157", "rank": 7 },
+          { "fencer_id": "9349", "rank": 9 },
+          { "fencer_id": "2041", "rank": 12 },
+          { "fencer_id": "11058", "rank": 16 },
+          { "fencer_id": "3631", "rank": 19 },
+          { "fencer_id": "5576", "rank": 20 },
+          { "fencer_id": "1465", "rank": 21 },
+          { "fencer_id": "9271", "rank": 22 },
+          { "fencer_id": "15558", "rank": 23 },
+          { "fencer_id": "10202", "rank": 25 },
+          { "fencer_id": "9348", "rank": 27 },
+          { "fencer_id": "10346", "rank": 28 },
+          { "fencer_id": "1463", "rank": 29 },
+          { "fencer_id": "2140", "rank": 30 },
+          { "fencer_id": "11398", "rank": 31 },
+          { "fencer_id": "10136", "rank": 33 },
+          { "fencer_id": "10392", "rank": 34 },
+          { "fencer_id": "16635", "rank": 35 },
+          { "fencer_id": "12855", "rank": 37 },
+          { "fencer_id": "16061", "rank": 38 },
+          { "fencer_id": "10349", "rank": 39 },
+          { "fencer_id": "11392", "rank": 41 },
+          { "fencer_id": "7825", "rank": 42 },
+          { "fencer_id": "11689", "rank": 47 },
+          { "fencer_id": "15555", "rank": 49 },
+          { "fencer_id": "16066", "rank": 50 },
+          { "fencer_id": "-73", "rank": 51 },
+          { "fencer_id": "17074", "rank": 52 },
+          { "fencer_id": "8936", "rank": 53 },
+          { "fencer_id": "9350", "rank": 54 },
+          { "fencer_id": "11393", "rank": 56 },
+          { "fencer_id": "11069", "rank": 58 },
+          { "fencer_id": "16633", "rank": 59 },
+          { "fencer_id": "-74", "rank": 60 },
+          { "fencer_id": "8935", "rank": 62 },
+          { "fencer_id": "16060", "rank": 64 },
+          { "fencer_id": "16068", "rank": 65 },
+          { "fencer_id": "-75", "rank": 67 },
+          { "fencer_id": "17173", "rank": 68 }
+        ]
+      },
+      {
+        "division": "ls",
+        "category": "w",
+        "no_participants": 10,
+        "results_link": "https://www.facebook.com/photo/?fbid=1420788099284599&set=gm.1264757948698875&idorvanity=1157280426113295",
+        "results": [
+          { "fencer_id": "11065", "rank": 2 },
+          { "fencer_id": "16069", "rank": 3 },
+          { "fencer_id": "9339", "rank": 5 },
+          { "fencer_id": "17176", "rank": 6 },
+          { "fencer_id": "13891", "rank": 7 },
+          { "fencer_id": "11060", "rank": 8 },
+          { "fencer_id": "15301", "rank": 9 }
         ]
       }
     ]
