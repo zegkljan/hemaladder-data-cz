@@ -159,6 +159,10 @@
     "surname": "Diviš",
     "name": "Milan"
   },
+  "17264": {
+    "surname": "Dobrovolný",
+    "name": "David"
+  },
   "6596": {
     "surname": "Doms",
     "name": "Ján"
@@ -202,6 +206,10 @@
   "12165": {
     "surname": "Forejt",
     "name": "Vojtěch"
+  },
+  "14560": {
+    "surname": "Fratrič",
+    "name": "Maxmilián"
   },
   "13078": {
     "surname": "Futáš",
@@ -1159,16 +1167,8 @@
     "surname": "Podrazil",
     "name": "Václav"
   },
-  "-73": {
-    "surname": "Dobrovolný",
-    "name": "David"
-  },
-  "-74": {
-    "surname": "Fratrič",
-    "name": "Maximilian"
-  },
   "-75": {
-    "surname": "Hakl",
+    "surname": "Uhlík",
     "name": "Tomáš"
   }
 }
