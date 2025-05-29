@@ -1380,5 +1380,23 @@
         ]
       }
     ]
+  },
+  "-22": {
+    "name": "Batallas de las Salas de Armas 2025",
+    "date": "2025-05-24",
+    "country": "hu",
+    "city": "Budapest",
+    "competitions": [
+      {
+        "division": "r",
+        "category": "mo",
+        "no_participants": 17,
+        "results_link": "https://docs.google.com/spreadsheets/d/151k7Hchkqmk_Lf0RFbYExkCZ1qJwzdlU/edit?gid=256542917#gid=256542917",
+        "results": [
+          { "fencer_id": "1473", "rank": 1 },
+          { "fencer_id": "9350", "rank": 2 }
+        ]
+      }
+    ]
   }
 }
