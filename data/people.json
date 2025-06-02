@@ -184,7 +184,7 @@
     "name": "Tomáš"
   },
   "16626": {
-    "surname": "Dvorak",
+    "surname": "Dvořák",
     "name": "Martin"
   },
   "6598": {
@@ -198,6 +198,10 @@
   "17173": {
     "surname": "Feistinger",
     "name": "Marek"
+  },
+  "17713": {
+    "surname": "Feitová",
+    "name": "Eliška"
   },
   "10053": {
     "surname": "Filip",
@@ -214,6 +218,10 @@
   "13078": {
     "surname": "Futáš",
     "name": "Filip"
+  },
+  "17709": {
+    "surname": "Gaja",
+    "name": "Cyril"
   },
   "13932": {
     "surname": "Giannetti",
@@ -234,6 +242,10 @@
   "12553": {
     "surname": "Grussmann",
     "name": "Pavel"
+  },
+  "17265": {
+    "surname": "Hakl",
+    "name": "Tomáš"
   },
   "14089": {
     "surname": "Havlíček",
@@ -358,6 +370,10 @@
   "17070": {
     "surname": "Jurman",
     "name": "Aleš"
+  },
+  "17714": {
+    "surname": "Kačírková",
+    "name": "Hana"
   },
   "12854": {
     "surname": "Kantor",
@@ -655,6 +671,10 @@
     "surname": "Neuman",
     "name": "Jan"
   },
+  "17710": {
+    "surname": "Nikl",
+    "name": "Martin"
+  },
   "10136": {
     "surname": "Nizner",
     "name": "Josef"
@@ -815,6 +835,10 @@
     "surname": "Rykr",
     "name": "Vojtěch"
   },
+  "17711": {
+    "surname": "Řežábek",
+    "name": "Šimon"
+  },
   "7991": {
     "surname": "Sakharov",
     "name": "Matvey"
@@ -939,6 +963,10 @@
     "surname": "Šváchová",
     "name": "Nikol"
   },
+  "17923": {
+    "surname": "Švoma",
+    "name": "Jan"
+  },
   "15171": {
     "surname": "Teny",
     "name": "Katy"
@@ -1022,6 +1050,10 @@
   "9598": {
     "surname": "Vítek",
     "name": "Roman"
+  },
+  "17712": {
+    "surname": "Vlach",
+    "name": "Jindřich"
   },
   "9636": {
     "surname": "Vlasák",
@@ -1131,10 +1163,6 @@
     "surname": "Bártl",
     "name": "Jan"
   },
-  "-7": {
-    "surname": "Švoma",
-    "name": "Jan"
-  },
   "-9": {
     "surname": "Schüller",
     "name": "Marian"
@@ -1170,5 +1198,17 @@
   "-75": {
     "surname": "Uhlík",
     "name": "Tomáš"
+  },
+  "-82": {
+    "surname": "Prieto",
+    "name": "Alvaro"
+  },
+  "-83": {
+    "surname": "Tsalikis",
+    "name": "Nick"
+  },
+  "-84": {
+    "surname": "Djočinovič",
+    "name": "Patrik"
   }
 }
