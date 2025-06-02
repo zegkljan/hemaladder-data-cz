@@ -235,6 +235,10 @@
     "surname": "Grussmann",
     "name": "Pavel"
   },
+  "17265": {
+    "surname": "Hakl",
+    "name": "Tomáš"
+  },
   "14089": {
     "surname": "Havlíček",
     "name": "Vojtech"
@@ -1170,5 +1174,29 @@
   "-75": {
     "surname": "Uhlík",
     "name": "Tomáš"
+  },
+  "-76": {
+    "surname": "Gaja",
+    "name": "Cyril"
+  },
+  "-77": {
+    "surname": "Vlach",
+    "name": "Jindřich"
+  },
+  "-78": {
+    "surname": "Nikl",
+    "name": "Martin"
+  },
+  "-79": {
+    "surname": "Řežábek",
+    "name": "Šimon"
+  },
+  "-80": {
+    "surname": "Kačírková",
+    "name": "Hana"
+  },
+  "-81": {
+    "surname": "Feitová",
+    "name": "Eliška"
   }
 }
