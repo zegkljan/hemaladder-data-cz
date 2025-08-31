@@ -59,6 +59,9 @@
   "1125": {
     "name": "Poslední Argument"
   },
+  "1891": {
+    "name": "Pražský Šermířský Klub"
+  },
   "1273": {
     "name": "Rapír klub Praha (Rapier club Prague)"
   },
@@ -80,6 +83,9 @@
   "1115": {
     "name": "Šermírna Luka"
   },
+  "1855": {
+    "name": "Šermířský klub Veles"
+  },
   "290": {
     "name": "Škola šermu Paridon"
   },
@@ -97,5 +103,8 @@
   },
   "-3": {
     "name": "Ballestra Telč - Paridon"
+  },
+  "-4": {
+    "name": "Sportovní šerm Zlín"
   }
 }
