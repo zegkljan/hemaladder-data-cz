@@ -246,11 +246,11 @@
         "no_participants": 9,
         "results_link": "https://docs.google.com/spreadsheets/d/1p_j5EtQoPxWMYqhCc5GaIcNmJUfP_Zi84sN2qsP1IlU/edit?usp=sharing",
         "results": [
-           { "fencer_id": "14951", "rank": 4 },
-           { "fencer_id": "9350", "rank": 5 },
-           { "fencer_id": "12854", "rank": 6 },
-           { "fencer_id": "15473", "rank": 7 },
-           { "fencer_id": "14950", "rank": 9 }
+          { "fencer_id": "14951", "rank": 4 },
+          { "fencer_id": "9350", "rank": 5 },
+          { "fencer_id": "12854", "rank": 6 },
+          { "fencer_id": "15473", "rank": 7 },
+          { "fencer_id": "14950", "rank": 9 }
         ]
       }
     ]
@@ -266,27 +266,21 @@
         "category": "mo",
         "no_participants": 68,
         "results_link": "https://hemagon.com/tournament/II-lake-hema/nomination/saber",
-        "results": [
-          { "fencer_id": "9598", "rank": 11 }
-        ]
+        "results": [{ "fencer_id": "9598", "rank": 11 }]
       },
       {
         "division": "ss",
         "category": "mo",
         "no_participants": 72,
         "results_link": "https://hemagon.com/tournament/II-lake-hema/nomination/sidesword",
-        "results": [
-          { "fencer_id": "9598", "rank": 3 }
-        ]
+        "results": [{ "fencer_id": "9598", "rank": 3 }]
       },
       {
         "division": "ls",
         "category": "mo",
         "no_participants": 57,
         "results_link": "https://hemagon.com/tournament/II-lake-hema/nomination/longsword",
-        "results": [
-          { "fencer_id": "9598", "rank": 6 }
-        ]
+        "results": [{ "fencer_id": "9598", "rank": 6 }]
       }
     ]
   },
@@ -301,18 +295,14 @@
         "subtitle": "advanced",
         "no_participants": 39,
         "results_link": "https://hemagon.com/tournament/%D0%9A%D0%A6%D0%90",
-        "results": [
-           { "fencer_id": "5822", "rank": 2 }
-        ]
+        "results": [{ "fencer_id": "5822", "rank": 2 }]
       },
       {
         "division": "ls",
         "category": "w",
         "no_participants": 9,
         "results_link": "https://hemagon.com/tournament/%D0%9A%D0%A6%D0%90",
-        "results": [
-           { "fencer_id": "9339", "rank": 5 }
-        ]
+        "results": [{ "fencer_id": "9339", "rank": 5 }]
       },
       {
         "division": "ls",
@@ -320,9 +310,7 @@
         "subtitle": "Italian duelling codex",
         "no_participants": 7,
         "results_link": "https://hemagon.com/tournament/%D0%9A%D0%A6%D0%90",
-        "results": [
-           { "fencer_id": "9339", "rank": 7 }
-        ]
+        "results": [{ "fencer_id": "9339", "rank": 7 }]
       },
       {
         "division": "sb",
@@ -330,18 +318,14 @@
         "subtitle": "Advanced",
         "no_participants": 34,
         "results_link": "https://hemagon.com/tournament/%D0%9A%D0%A6%D0%90",
-        "results": [
-           { "fencer_id": "5822", "rank": 8 }
-        ]
+        "results": [{ "fencer_id": "5822", "rank": 8 }]
       },
       {
         "division": "sb",
         "category": "w",
         "no_participants": 8,
         "results_link": "https://hemagon.com/tournament/%D0%9A%D0%A6%D0%90",
-        "results": [
-           { "fencer_id": "9339", "rank": 3 }
-        ]
+        "results": [{ "fencer_id": "9339", "rank": 3 }]
       }
     ]
   },
@@ -402,9 +386,7 @@
         "category": "w",
         "no_participants": 15,
         "results_link": "https://hemagon.com/tournament/DLC/nomination/womenlongsword",
-        "results": [
-          { "fencer_id": "1146", "rank": 9 }
-        ]
+        "results": [{ "fencer_id": "1146", "rank": 9 }]
       }
     ]
   },
@@ -551,9 +533,7 @@
         "no_participants": 28,
         "results_link": "https://system.onlyfence.eu/public/113",
         "subtitle": "Open",
-        "results": [
-          { "fencer_id": "9339", "rank": 15 }
-        ]
+        "results": [{ "fencer_id": "9339", "rank": 15 }]
       },
       {
         "division": "ls",
@@ -580,19 +560,19 @@
         "category": "mo",
         "no_participants": 15,
         "results": [
-          { "fencer_id": "12161", "rank": 1},
-          { "fencer_id": "7835", "rank": 2},
-          { "fencer_id": "16330", "rank": 4},
-          { "fencer_id": "14572", "rank": 5},
-          { "fencer_id": "14081", "rank": 6},
-          { "fencer_id": "12163", "rank": 7},
-          { "fencer_id": "16329", "rank": 8},
-          { "fencer_id": "16328", "rank": 9},
-          { "fencer_id": "14570", "rank": 10},
-          { "fencer_id": "16065", "rank": 12},
-          { "fencer_id": "14952", "rank": 13},
-          { "fencer_id": "14571", "rank": 14},
-          { "fencer_id": "14565", "rank": 15}
+          { "fencer_id": "12161", "rank": 1 },
+          { "fencer_id": "7835", "rank": 2 },
+          { "fencer_id": "16330", "rank": 4 },
+          { "fencer_id": "14572", "rank": 5 },
+          { "fencer_id": "14081", "rank": 6 },
+          { "fencer_id": "12163", "rank": 7 },
+          { "fencer_id": "16329", "rank": 8 },
+          { "fencer_id": "16328", "rank": 9 },
+          { "fencer_id": "14570", "rank": 10 },
+          { "fencer_id": "16065", "rank": 12 },
+          { "fencer_id": "14952", "rank": 13 },
+          { "fencer_id": "14571", "rank": 14 },
+          { "fencer_id": "14565", "rank": 15 }
         ]
       },
       {
@@ -600,17 +580,17 @@
         "category": "mo",
         "no_participants": 12,
         "results": [
-            { "fencer_id": "12161", "rank": 1},
-            { "fencer_id": "7835", "rank": 2},
-            { "fencer_id": "12166", "rank": 3},
-            { "fencer_id": "16065", "rank": 4},
-            { "fencer_id": "14081", "rank": 5},
-            { "fencer_id": "16328", "rank": 6},
-            { "fencer_id": "15554", "rank": 8},
-            { "fencer_id": "16332", "rank": 9},
-            { "fencer_id": "16329", "rank": 10},
-            { "fencer_id": "14952", "rank": 11},
-            { "fencer_id": "16333", "rank": 12}
+          { "fencer_id": "12161", "rank": 1 },
+          { "fencer_id": "7835", "rank": 2 },
+          { "fencer_id": "12166", "rank": 3 },
+          { "fencer_id": "16065", "rank": 4 },
+          { "fencer_id": "14081", "rank": 5 },
+          { "fencer_id": "16328", "rank": 6 },
+          { "fencer_id": "15554", "rank": 8 },
+          { "fencer_id": "16332", "rank": 9 },
+          { "fencer_id": "16329", "rank": 10 },
+          { "fencer_id": "14952", "rank": 11 },
+          { "fencer_id": "16333", "rank": 12 }
         ]
       }
     ]
@@ -656,18 +636,14 @@
         "category": "mo",
         "no_participants": 83,
         "results_link": "https://hemagon.com/tournament/hlo25/nomination/os",
-        "results": [
-          { "fencer_id": "3631", "rank": 15 }
-        ]
+        "results": [{ "fencer_id": "3631", "rank": 15 }]
       },
       {
         "division": "rad",
         "category": "mo",
         "no_participants": 57,
         "results_link": "https://hemagon.com/tournament/hlo25/nomination/ord",
-        "results": [
-          { "fencer_id": "2140", "rank": 19 }
-        ]
+        "results": [{ "fencer_id": "2140", "rank": 19 }]
       }
     ]
   },
@@ -682,27 +658,21 @@
         "category": "mo",
         "no_participants": 34,
         "results_link": "https://www.facebook.com/photo/?fbid=1277184100578002&set=pcb.988563229837327",
-        "results": [
-          { "fencer_id": "3631", "rank": 1 }
-        ]
+        "results": [{ "fencer_id": "3631", "rank": 1 }]
       },
       {
         "division": "sb",
         "category": "mo",
         "no_participants": 26,
         "results_link": "https://www.facebook.com/photo/?fbid=1277184090578003&set=pcb.988563229837327",
-        "results": [
-          { "fencer_id": "3631", "rank": 7 }
-        ]
+        "results": [{ "fencer_id": "3631", "rank": 7 }]
       },
       {
         "division": "sab",
         "category": "mo",
         "no_participants": 12,
         "results_link": "https://www.facebook.com/photo?fbid=1277184077244671&set=pcb.988563229837327",
-        "results": [
-          { "fencer_id": "3631", "rank": 3 }
-        ]
+        "results": [{ "fencer_id": "3631", "rank": 3 }]
       }
     ]
   },
@@ -889,27 +859,21 @@
         "category": "mo",
         "no_participants": 59,
         "results_link": "https://turnier3.piranha.de/fighter/category/29",
-        "results": [
-          { "fencer_id": "3631", "rank": 1 }
-        ]
+        "results": [{ "fencer_id": "3631", "rank": 1 }]
       },
       {
         "division": "sb",
         "category": "mo",
         "no_participants": 49,
         "results_link": "https://turnier3.piranha.de/fighter/category/25",
-        "results": [
-          { "fencer_id": "3631", "rank": 20 }
-        ]
+        "results": [{ "fencer_id": "3631", "rank": 20 }]
       },
       {
         "division": "rad",
         "category": "mo",
         "no_participants": 35,
         "results_link": "https://turnier3.piranha.de/fighter/category/27",
-        "results": [
-          { "fencer_id": "3631", "rank": 11 }
-	]
+        "results": [{ "fencer_id": "3631", "rank": 11 }]
       }
     ]
   },
@@ -947,9 +911,7 @@
         "category": "w",
         "no_participants": 14,
         "results_link": "https://system.onlyfence.eu/public/117",
-        "results": [
-          { "fencer_id": "11065", "rank": 2 }
-        ]
+        "results": [{ "fencer_id": "11065", "rank": 2 }]
       },
       {
         "division": "sab",
@@ -983,9 +945,7 @@
         "category": "mo",
         "no_participants": 43,
         "results_link": "https://www.facebook.com/events/958732149500838/?post_id=1029161552457897&view=permalink",
-        "results": [
-          { "fencer_id": "10346", "rank": 17 }
-        ]
+        "results": [{ "fencer_id": "10346", "rank": 17 }]
       }
     ]
   },
@@ -1000,18 +960,14 @@
         "category": "mo",
         "no_participants": 57,
         "results_link": "https://hemascorecard.com/finalsBracket.php?e=550&t=2932&m=0#",
-        "results": [
-          { "fencer_id": "2140", "rank": 2 }
-        ]
+        "results": [{ "fencer_id": "2140", "rank": 2 }]
       },
       {
         "division": "rad",
         "category": "mo",
         "no_participants": 25,
         "results_link": "https://hemascorecard.com/finalsBracket.php?e=550&t=2934&m=0#",
-        "results": [
-          { "fencer_id": "2140", "rank": 2 }
-        ]
+        "results": [{ "fencer_id": "2140", "rank": 2 }]
       }
     ]
   },
@@ -1054,17 +1010,13 @@
         "category": "mo",
         "subtitle": "advanced",
         "no_participants": 21,
-        "results": [
-          { "fencer_id": "12786", "rank": 1 }
-        ]
+        "results": [{ "fencer_id": "12786", "rank": 1 }]
       },
       {
         "division": "ls",
         "category": "w",
         "no_participants": 7,
-        "results": [
-          { "fencer_id": "1146", "rank": 1 }
-        ]
+        "results": [{ "fencer_id": "1146", "rank": 1 }]
       }
     ]
   },
@@ -1312,9 +1264,7 @@
         "category": "mo",
         "no_participants": 24,
         "results_link": "https://system.onlyfence.eu/public/125",
-        "results": [
-          { "fencer_id": "11157", "rank": 5 }
-        ]
+        "results": [{ "fencer_id": "11157", "rank": 5 }]
       }
     ]
   },
@@ -1401,18 +1351,14 @@
         "subtitle": "Beginners",
         "no_participants": 23,
         "results_link": "https://system.onlyfence.eu/public/145",
-        "results": [
-          { "fencer_id": "12856", "rank": 19 }
-        ]
+        "results": [{ "fencer_id": "12856", "rank": 19 }]
       },
       {
         "division": "ls",
         "category": "w",
         "no_participants": 14,
         "results_link": "https://system.onlyfence.eu/public/144",
-        "results": [
-          { "fencer_id": "13891", "rank": 7 }
-        ]
+        "results": [{ "fencer_id": "13891", "rank": 7 }]
       }
     ]
   },
@@ -1454,10 +1400,10 @@
           { "fencer_id": "15182", "rank": 26 },
           { "fencer_id": "15164", "rank": 27 },
           { "fencer_id": "13397", "rank": 32 },
-          { "fencer_id": "-82", "rank": 33 },
+          { "fencer_id": "18837", "rank": 33 },
           { "fencer_id": "16626", "rank": 34 },
           { "fencer_id": "16635", "rank": 35 },
-          { "fencer_id": "-83", "rank": 37 },
+          { "fencer_id": "18850", "rank": 37 },
           { "fencer_id": "-84", "rank": 44 },
           { "fencer_id": "16627", "rank": 54 },
           { "fencer_id": "14779", "rank": 56 }
@@ -1467,19 +1413,17 @@
         "division": "m",
         "category": "mo",
         "no_participants": 9,
-        "results": [
-          { "fencer_id": "16635", "rank": 2 }
-        ]
+        "results": [{ "fencer_id": "16635", "rank": 2 }]
       }
     ]
   },
   "2407": {
     "name": "Mistrovství ČR v šermu dlouhým mečem",
-     "date": "2025-05-31",
-     "country": "cz",
-     "city": "Brno",
-     "championship": true,
-     "competitions": [
+    "date": "2025-05-31",
+    "country": "cz",
+    "city": "Brno",
+    "championship": true,
+    "competitions": [
       {
         "division": "ls",
         "category": "mo",
@@ -1541,6 +1485,6 @@
           { "fencer_id": "17714", "rank": 8 }
         ]
       }
-     ]
+    ]
   }
 }
