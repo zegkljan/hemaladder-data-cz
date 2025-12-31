@@ -441,5 +441,314 @@
         ]
       }
     ]
+  },
+  "2572": {
+    "name": "Sofia CrossSwords 2025",
+    "date": "2025-11-08",
+    "country": "bg",
+    "city": "Sofia",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "subtitle": "light",
+        "no_participants": 14,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=912&t=3721&m=0#",
+        "results": [
+          { "fencer_id": "11158", "rank": 1 }
+        ]
+      },
+      {
+        "division": "sab",
+        "category": "mo",
+        "no_participants": 17,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=912&t=3723&m=0#",
+        "results": [
+          { "fencer_id": "11158", "rank": 1 }
+        ]
+      }
+    ]
+  },
+  "2576": {
+    "name": "KatzenSchlag 2025",
+    "date": "2025-11-08",
+    "country": "pl",
+    "city": "Zmigród",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 23,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=918&t=3742&m=0#",
+        "results": [
+          { "fencer_id": "8907", "rank": 3 },
+          { "fencer_id": "7298", "rank": 10 }
+        ]
+      },
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 35,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=918&t=3741&m=0#",
+        "results": [
+          { "fencer_id": "8907", "rank": 4 }
+        ]
+      },
+      {
+        "division": "ss",
+        "category": "mo",
+        "no_participants": 14,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=918&t=3743&m=0#",
+        "results": [
+          { "fencer_id": "8907", "rank": 8 }
+        ]
+      }
+    ]
+  },
+  "2580": {
+    "name": "Berlin Duelling Days 2025",
+    "date": "2025-11-15",
+    "country": "de",
+    "city": "Berlin",
+    "competitions": [
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 36,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=917&t=3733&m=0#",
+        "results": [
+          { "fencer_id": "8907", "rank": 1 },
+          { "fencer_id": "5822", "rank": 3 },
+          { "fencer_id": "9350", "rank": 5 },
+          { "fencer_id": "12854", "rank": 7 },
+          { "fencer_id": "13102", "rank": 9 },
+          { "fencer_id": "9272", "rank": 16 }
+        ]
+      }
+    ]
+  },
+  "2594": {
+    "name": "SabreFecht 2025",
+    "date": "2025-11-29",
+    "country": "sk",
+    "city": "Bratislava",
+    "competitions": [
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 41,
+        "results_link": "https://system.onlyfence.eu/public/177/standings",
+        "results": [
+          { "fencer_id": "1471", "rank": 4 },
+          { "fencer_id": "8907", "rank": 6 },
+          { "fencer_id": "9272", "rank": 8 },
+          { "fencer_id": "13102", "rank": 9 },
+          { "fencer_id": "14569", "rank": 11 },
+          { "fencer_id": "9350", "rank": 13 },
+          { "fencer_id": "14560", "rank": 20 },
+          { "fencer_id": "17264", "rank": 35 },
+          { "fencer_id": "17925", "rank": 37 }
+        ]
+      }
+    ]
+  },
+  "2609": {
+    "name": "Pardubický meč 2025",
+    "date": "2025-12-06",
+    "country": "cz",
+    "city": "Heřmanův městec",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 95,
+        "results_link": "https://www.fencingtimelive.com/events/results/8E972F1C75734C46A682FF7E62999D9B",
+        "results": [
+          { "fencer_id": "7298", "rank": 2 },
+          { "fencer_id": "11158", "rank": 3 },
+          { "fencer_id": "9348", "rank": 6 },
+          { "fencer_id": "11074", "rank": 9 },
+          { "fencer_id": "3631", "rank": 10 },
+          { "fencer_id": "8907", "rank": 11 },
+          { "fencer_id": "5822", "rank": 14 },
+          { "fencer_id": "11278", "rank": 15 },
+          { "fencer_id": "19547", "rank": 16 },
+          { "fencer_id": "1465", "rank": 18 },
+          { "fencer_id": "7991", "rank": 19 },
+          { "fencer_id": "10346", "rank": 23 },
+          { "fencer_id": "13102", "rank": 25 },
+          { "fencer_id": "5826", "rank": 26 },
+          { "fencer_id": "17264", "rank": 26 },
+          { "fencer_id": "19228", "rank": 28 },
+          { "fencer_id": "16061", "rank": 29 },
+          { "fencer_id": "12553", "rank": 30 },
+          { "fencer_id": "16635", "rank": 31 },
+          { "fencer_id": "12161", "rank": 32 },
+          { "fencer_id": "12125", "rank": 33 },
+          { "fencer_id": "10202", "rank": 34 },
+          { "fencer_id": "16062", "rank": 35 },
+          { "fencer_id": "16060", "rank": 37 },
+          { "fencer_id": "9271", "rank": 37 },
+          { "fencer_id": "11308", "rank": 39 },
+          { "fencer_id": "2041", "rank": 42 },
+          { "fencer_id": "14564", "rank": 45 },
+          { "fencer_id": "12852", "rank": 47 },
+          { "fencer_id": "11058", "rank": 48 },
+          { "fencer_id": "19533", "rank": 49 },
+          { "fencer_id": "8936", "rank": 50 },
+          { "fencer_id": "1512", "rank": 51 },
+          { "fencer_id": "17709", "rank": 52 },
+          { "fencer_id": "9639", "rank": 53 },
+          { "fencer_id": "13078", "rank": 55 },
+          { "fencer_id": "14078", "rank": 56 },
+          { "fencer_id": "17173", "rank": 57 },
+          { "fencer_id": "11282", "rank": 59 },
+          { "fencer_id": "13895", "rank": 61 },
+          { "fencer_id": "8935", "rank": 63 },
+          { "fencer_id": "19534", "rank": 64 },
+          { "fencer_id": "4783", "rank": 65 },
+          { "fencer_id": "12128", "rank": 66 },
+          { "fencer_id": "13897", "rank": 67 },
+          { "fencer_id": "11393", "rank": 68 },
+          { "fencer_id": "19542", "rank": 70 },
+          { "fencer_id": "19539", "rank": 71 },
+          { "fencer_id": "14089", "rank": 72 },
+          { "fencer_id": "18838", "rank": 73 },
+          { "fencer_id": "7308", "rank": 74 },
+          { "fencer_id": "17074", "rank": 75 },
+          { "fencer_id": "1468", "rank": 76 },
+          { "fencer_id": "19543", "rank": 78 },
+          { "fencer_id": "19229", "rank": 79 },
+          { "fencer_id": "19233", "rank": 79 },
+          { "fencer_id": "18849", "rank": 82 },
+          { "fencer_id": "18851", "rank": 83 },
+          { "fencer_id": "19544", "rank": 83 },
+          { "fencer_id": "16066", "rank": 83 },
+          { "fencer_id": "19548", "rank": 86 },
+          { "fencer_id": "19546", "rank": 87 },
+          { "fencer_id": "17265", "rank": 88 },
+          { "fencer_id": "17171", "rank": 90 },
+          { "fencer_id": "17177", "rank": 91 },
+          { "fencer_id": "19540", "rank": 92 },
+          { "fencer_id": "19231", "rank": 93 },
+          { "fencer_id": "19537", "rank": 94 },
+          { "fencer_id": "17070", "rank": 95 }
+        ]
+      },
+      {
+        "division": "ls",
+        "category": "w",
+        "no_participants": 19,
+        "results_link": "https://www.fencingtimelive.com/events/results/73BA4F2923DD4945B164E3C48D553C02",
+        "results": [
+          { "fencer_id": "11065", "rank": 3 },
+          { "fencer_id": "17177", "rank": 4 },
+          { "fencer_id": "13891", "rank": 5 },
+          { "fencer_id": "9339", "rank": 6 },
+          { "fencer_id": "17176", "rank": 8 },
+          { "fencer_id": "1468", "rank": 9 },
+          { "fencer_id": "19536", "rank": 10 },
+          { "fencer_id": "16069", "rank": 11 },
+          { "fencer_id": "17713", "rank": 15 },
+          { "fencer_id": "18018", "rank": 16 },
+          { "fencer_id": "11060", "rank": 17 },
+          { "fencer_id": "19535", "rank": 19 }
+        ]
+      }
+    ]
+  },
+  "2616": {
+    "name": "Swordplay Serbia 2025",
+    "date": "2025-12-06",
+    "country": "rs",
+    "city": "Београд",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "subtitle": "Tier A",
+        "no_participants": 24,
+        "results_link": "https://hemascorecard.com/infoSummary.php?e=875&t=0&m=0#",
+        "results": [
+          { "fencer_id": "12854", "rank": 14 }
+        ]
+      },
+      {
+        "division": "r",
+        "category": "mo",
+        "no_participants": 45,
+        "results_link": "https://hemascorecard.com/infoSummary.php?e=875&t=0&m=0#",
+        "results": [
+          { "fencer_id": "12854", "rank": 5 },
+          { "fencer_id": "9350", "rank": 24 }
+        ]
+      },
+      {
+        "division": "ss",
+        "category": "mo",
+        "no_participants": 42,
+        "results_link": "https://hemascorecard.com/infoSummary.php?e=875&t=0&m=0#",
+        "results": [
+          { "fencer_id": "12854", "rank": 21 },
+          { "fencer_id": "9350", "rank": 22 }
+        ]
+      },
+      {
+        "division": "sm",
+        "category": "mo",
+        "no_participants": 24,
+        "results_link": "https://hemascorecard.com/infoSummary.php?e=875&t=0&m=0#",
+        "results": [
+          { "fencer_id": "9350", "rank": 21 }
+        ]
+      }
+    ]
+  },
+  "-25": {
+    "name": "Durschlag-Krieger Cup 2025",
+    "date": "2025-12-13",
+    "country": "pl",
+    "city": "Rzgów",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 47,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=927&t=3848&m=0#",
+        "results": [
+          { "fencer_id": "11158", "rank": 1 },
+          { "fencer_id": "12854", "rank": 14 }
+        ]
+      },
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 51,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=927&t=3865&m=0#",
+        "results": [
+          { "fencer_id": "11158", "rank": 12 },
+          { "fencer_id": "12854", "rank": 37 }
+        ]
+      },
+      {
+        "division": "rad",
+        "category": "mo",
+        "no_participants": 22,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=927&t=3867&m=0#",
+        "results": [
+          { "fencer_id": "11158", "rank": 3 }
+        ]
+      },
+      {
+        "division": "sab",
+        "category": "mo",
+        "no_participants": 20,
+        "results_link": "https://hemascorecard.com/finalsBracket.php?e=927&t=3866&m=0#",
+        "results": [
+          { "fencer_id": "11158", "rank": 2 },
+          { "fencer_id": "12854", "rank": 15 }
+        ]
+      }
+    ]
   }
 }
