@@ -643,6 +643,10 @@
     "surname": "Loukota",
     "name": "Jakub"
   },
+  "19985": {
+    "surname": "Lstiburek",
+    "name": "Pavel"
+  },
   "18658": {
     "surname": "Lukeš",
     "name": "Jiří"
@@ -654,6 +658,10 @@
   "16623": {
     "surname": "Machander",
     "name": "Jonathan"
+  },
+  "20083": {
+    "surname": "Major",
+    "name": "Filip"
   },
   "10191": {
     "surname": "Malec",
@@ -799,6 +807,10 @@
     "surname": "Ospálek",
     "name": "Petr"
   },
+  "19988": {
+    "surname": "Otta",
+    "name": "Vladimír"
+  },
   "11162": {
     "surname": "Pajonková",
     "name": "Stanislava"
@@ -915,6 +927,10 @@
     "surname": "Prokeš",
     "name": "Honza"
   },
+  "20085": {
+    "surname": "Prokop",
+    "name": "Jan"
+  },
   "14080": {
     "surname": "Pruner",
     "name": "David"
@@ -1010,6 +1026,10 @@
   "11297": {
     "surname": "Silnica",
     "name": "Matěj"
+  },
+  "20084": {
+    "surname": "Simondi",
+    "name": "Filippo"
   },
   "16635": {
     "surname": "Skála",
@@ -1191,6 +1211,10 @@
     "surname": "Typl",
     "name": "Lukáš"
   },
+  "19347": {
+    "surname": "Uchytilova",
+    "name": "Lucie"
+  },
   "17074": {
     "surname": "Uhlík",
     "name": "Sebastian"
@@ -1262,6 +1286,10 @@
   "9272": {
     "surname": "Vochozka",
     "name": "Josef"
+  },
+  "19983": {
+    "surname": "Vojtíšek",
+    "name": "Martin"
   },
   "9603": {
     "surname": "Voleková",
@@ -1355,10 +1383,6 @@
     "surname": "Schüller",
     "name": "Marian"
   },
-  "-10": {
-    "surname": "Lstiburek",
-    "name": "Pavel"
-  },
   "-23": {
     "surname": "Horanský",
     "name": "Martin"
@@ -1370,10 +1394,6 @@
   "-31": {
     "surname": "Habrych",
     "name": "Jan"
-  },
-  "-44": {
-    "surname": "Otta",
-    "name": "Vladimír"
   },
   "-71": {
     "surname": "Pospíšil",
