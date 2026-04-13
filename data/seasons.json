@@ -126,6 +126,12 @@
           "n": 5
         }
       },
+      "sab": {
+        "mo": {
+          "type": "best-n+champ",
+          "n": 5
+        }
+      },
       "*": {
         "type": "best-n+champ",
         "n": 3
