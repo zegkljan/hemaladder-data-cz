@@ -1231,5 +1231,142 @@
         ]
       }
     ]
+  },
+  "2710": {
+    "name": "Vilnius HEMA Open 2026",
+    "date": "2026-03-28",
+    "country": "lt",
+    "city": "Vilnius",
+    "competitions": [
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 31,
+        "results_link": "https://hemascorecard.com/infoSummary.php?e=981&t=0&m=0#",
+        "results": [
+          { "fencer_id": "11157", "rank": 4 },
+          { "fencer_id": "11158", "rank": 5 },
+          { "fencer_id": "12854", "rank": 20 }
+        ]
+      },
+      {
+        "division": "sab",
+        "category": "mo",
+        "no_participants": 15,
+        "results_link": "https://hemascorecard.com/infoSummary.php?e=981&t=0&m=0#",
+        "results": [
+          { "fencer_id": "11158", "rank": 5 },
+          { "fencer_id": "11157", "rank": 6 },
+          { "fencer_id": "12854", "rank": 7 }
+        ]
+      },
+      {
+        "division": "r",
+        "category": "mo",
+        "no_participants": 15,
+        "results_link": "https://hemascorecard.com/infoSummary.php?e=981&t=0&m=0#",
+        "results": [
+          { "fencer_id": "11158", "rank": 3 },
+          { "fencer_id": "12854", "rank": 4 },
+          { "fencer_id": "11157", "rank": 8 }
+        ]
+      }
+    ]
+  },
+  "2726": {
+    "name": "Bratislava En Garde! 2026",
+    "date": "2026-04-11",
+    "country": "sk",
+    "city": "Bratislava",
+    "competitions": [
+      {
+        "division": "rad",
+        "category": "mo",
+        "no_participants": 26,
+        "results_link": "https://system.onlyfence.eu/public/188/standings",
+        "results": [
+          { "fencer_id": "11158", "rank": 1 },
+          { "fencer_id": "1499", "rank": 2 },
+          { "fencer_id": "9348", "rank": 4 },
+          { "fencer_id": "10193", "rank": 6 },
+          { "fencer_id": "13078", "rank": 12 },
+          { "fencer_id": "13599", "rank": 13 },
+          { "fencer_id": "12854", "rank": 15 },
+          { "fencer_id": "9350", "rank": 20 },
+          { "fencer_id": "17264", "rank": 23 }
+        ]
+      },
+      {
+        "division": "sab",
+        "category": "mo",
+        "no_participants": 16,
+        "results_link": "https://system.onlyfence.eu/public/189/standings",
+        "results": [
+          { "fencer_id": "11158", "rank": 1 },
+          { "fencer_id": "12854", "rank": 4 },
+          { "fencer_id": "9348", "rank": 5 },
+          { "fencer_id": "19544", "rank": 11 },
+          { "fencer_id": "9350", "rank": 15 },
+          { "fencer_id": "17264", "rank": 16 }
+        ]
+      }
+    ]
+  },
+  "2721": {
+    "name": "The Dame 2026",
+    "date": "2026-04-11",
+    "country": "fr",
+    "city": "Marseille",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "w",
+        "no_participants": 18,
+        "results_link": "https://system.onlyfence.eu/public/188/standings",
+        "results": [
+          { "fencer_id": "6175", "rank": 1 },
+          { "fencer_id": "1146", "rank": 3 },
+          { "fencer_id": "19535", "rank": 7 }
+        ]
+      },
+      {
+        "division": "ss",
+        "category": "w",
+        "no_participants": 12,
+        "results_link": "https://hemascorecard.com/infoSummary.php?e=914&t=0&m=0#",
+        "results": [
+          { "fencer_id": "6175", "rank": 1 }
+        ]
+      }
+    ]
+  },
+  "-25": {
+    "name": "Paris HEMA Open 2026",
+    "date": "2026-04-25",
+    "country": "fr",
+    "city": "Paris",
+    "competitions": [
+      {
+        "division": "ls",
+        "category": "mo",
+        "no_participants": 52,
+        "results_link": "https://system.onlyfence.eu/public/173",
+        "results": [
+          { "fencer_id": "7298", "rank": 5 },
+          { "fencer_id": "2140", "rank": 18 },
+          { "fencer_id": "3631", "rank": 30 }
+        ]
+      },
+      {
+        "division": "sb",
+        "category": "mo",
+        "no_participants": 42,
+        "results_link": "https://system.onlyfence.eu/public/174",
+        "results": [
+          { "fencer_id": "2140", "rank": 12 },
+          { "fencer_id": "3631", "rank": 15 }
+        ]
+      }
+    ]
   }
 }
